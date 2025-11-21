@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on: Uma (Unity Game)
+- 🌱 I’m currently learning: Web development, Rust, WebGL
+- 💬 Ask me about: weightlifting!
+- 📫 How to reach me: bekzepeda2005@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm an NSCA Certified Personal Trainer

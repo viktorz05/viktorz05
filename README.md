@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on: Uma (Unity Game)
-- 🌱 I’m currently learning: Web development, Rust, WebGL
+- 🔭 I’m currently working on: summergame (Unity Game)
+- 🌱 I’m currently learning: C++, Rust, OpenGL
 - 💬 Ask me about: weightlifting!
 - 📫 How to reach me: bekzepeda2005@gmail.com
 - 😄 Pronouns: he/him
